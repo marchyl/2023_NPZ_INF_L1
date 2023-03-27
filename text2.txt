@@ -1,4 +1,8 @@
 Stoi na stacji lokomotywa.
+<<<<<<< HEAD
 Ciężka, ogromna i pot z niej spływa – tłusta oliwa.
 Ciuch ciuch.
 Lokomotywa odjeżdża.
+=======
+Ciężka, ogromna i pot z niej spływa – tłusta oliwa.
+>>>>>>> parent of f14c9e4 (ciuch ciuch)
