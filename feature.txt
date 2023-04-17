@@ -3,3 +3,4 @@ HotFix
 Linia 2
 Linia 3
 Feature
+Koniec feature
